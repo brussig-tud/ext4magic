@@ -1,0 +1,9 @@
+
+# In-source build
+/build
+
+# IDE folders
+.vs
+.vscode
+.idea
+.run

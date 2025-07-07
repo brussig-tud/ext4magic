@@ -25,6 +25,8 @@
 #include <fcntl.h>
 #include <utime.h>
 
+#include <sys/sysmacros.h>
+
 #ifndef O_LARGEFILE
 #define O_LARGEFILE 0
 #endif
