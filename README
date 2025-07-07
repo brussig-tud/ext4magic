@@ -1,6 +1,13 @@
 README for ext4magic V-0.3.x
 =============================
 
+I. PREREQUISITES
+
+On a modern Debian-based Linux distribution, required packages that are not typically installed by default include the following:
+
+libext2fs-dev libblkid-dev uuid-dev libmagic-dev
+
+
 1.0	Accidentally deleted files
  1.1	How does this work
 
