@@ -1,6 +1,7 @@
 
 # In-source build
 /build
+/autom4te.cache
 
 # IDE folders
 .vs
